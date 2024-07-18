@@ -1,0 +1,536 @@
+.main_container {
+    border: solid black;
+    height: 1850px;
+    background-color: aliceblue;
+    
+}
+
+.box {
+  
+    height: 120px;
+    /* margin: 10px; */
+    display: flex;
+    justify-content: center;
+   
+}
+#box1 {
+    /* border: solid green; */
+    width: 50%;
+    align-items: center;
+
+}
+
+
+#biogr{
+    /* border: solid blue; */
+    width: 100%;
+    height: auto;
+    margin: 5px;
+    
+}
+.section1 {
+    display: flex;
+}
+    
+#title {
+    /* border: solid violet; */
+    /* width: 150px; */
+    /* margin-left: 15px; */
+    font-size: 25px;
+ }
+
+ .background {
+    /* border: solid red; */
+    padding: 1px;
+    margin: 1em;
+    display: flex;
+    height: 120px;
+    /* width: 1243px; */
+ }  
+     
+ .uber {
+    height: 90px;
+    width: 70%;
+    padding: 5px;
+    display: flex;
+    
+    
+
+ }
+ .skills {
+    /* border: solid green; */
+    height: 52px;
+    width: 30%;
+    margin: 3px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    
+ }
+
+.description{
+    /* border: solid blue; */
+    height: 100px;
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    /* margin-left: 350px; */ 
+    background-color: lightpink;
+      
+    
+}
+.description:hover {
+    background-color: beige;
+}
+
+.data {
+   /* border: solid white; */
+    height: 30px;
+    width: 25%;
+    margin-top: 25px;
+    
+}  
+#March {
+    text-align: center;
+    margin-top: 5px;
+}
+#uberlogo {
+    border: solid black;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+#uberdriver {
+    text-align: center;
+    
+}
+
+
+
+.background2 {
+ /* border: solid red; */
+ display: flex;
+ margin: 1em;
+ /* margin-top: 0px; */
+ height: 140px; 
+}
+
+
+/* .descuber {
+   
+   border: solid blue;
+    width: 936px; 
+    height: 200px;
+   margin-left: 305px;
+    
+} */
+.skills2 {
+    /* border: solid green; */
+    margin-left: 7.8px;
+    width: 530px;
+    height:200px ;
+    margin-top: 0px;
+}
+
+.description2 {
+    /* border: solid blue; */
+    height: 130px;
+    width: 80%;
+}
+
+
+.tuft {
+    height: 90px;
+    width: 70%;
+    padding: 5px;
+    display: flex;
+
+ }
+ #datatuft {
+    /* border: solid green; */
+    text-align: center;
+    margin-top: 5px;
+ }
+
+ .description_tuft {
+    /* border: solid blue; */
+    height: 110px;
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+    text-align: center;
+    background-color: aqua;
+}
+.description_tuft:hover {
+    background-color:lightcoral;
+
+
+}
+
+
+
+#saglogo {
+    border: solid black;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 5px;
+}
+#arrow {
+    height: 30px;
+   
+
+}
+.pic {
+    /* border: solid darkorange; */
+    display: flex;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 50;
+    /* height: 80px; */
+    display: flex;
+    width: 1245px;
+    /* justify-content: ; */
+    background-color: springgreen;
+    color: black;
+    
+}
+#xumologo {
+    width: 130px;
+    height: 110px;    
+}
+#ar_ed {
+    height: 30px;
+}
+
+#perlogo {
+    border: solid black;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 5px;
+}
+#perscholas {
+    margin-top: 40px;
+}
+.perdescription {
+    /* border: solid blue; */
+    height: 90px;
+    /* width: 80%; */
+     
+}
+.background3 {
+    /* border: solid red; */
+    display: flex;
+    margin: 1em;
+    /* margin-top: 0px; */
+    height: 100px;
+    /* width: 60%; */
+      
+   }
+   .backgroundxumo {
+    /* border: solid red; */
+    display: flex;
+    margin: 1em;
+    /* margin-top: 0px; */
+    height: 100px; 
+   }
+   .descriptionxumo {
+    /* border: solid blue; */
+    height: 90px;
+    /* width: 80%; */
+}
+#skillogo {
+    height: 60px;
+  
+    
+}
+.skills {
+    /* border: solid green; */
+    height: 75px;
+    width: 30%;
+    /* margin: 3px; */
+    text-align: center;
+    /* padding-top: 30px; */
+    display: flex;
+    justify-content: space-evenly;
+      
+ }
+ .prog_skil {
+    /* border:  solid black; */
+    width: 300px;
+    height: 25px;
+    background-color: lightblue;
+    color: white;
+    text-align: end;
+    padding-top: 10px;
+    padding-right: 7px;
+
+}
+
+
+.skills_pic {
+    
+/* border: solid green; */
+width: 30%;
+text-align: center;
+padding-bottom: 10px;
+
+}
+
+.end {
+    border: solid black;
+    height: 20px;
+    width: 30px;
+}
+.mainbox {
+    display: flex;
+    width: 340px;
+    /* border: solid red; */
+    background-color: black;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.prog_skil_css {
+    /* border:  solid black; */
+    width: 295px;
+    height: 25px;
+    background-color: lightcoral;
+    color: white;
+    text-align: end;
+    padding-top: 10px;
+    padding-right: 5px;
+
+}
+.prog_skil_java {
+    /* border:  solid black; */
+    width: 288px;
+    height: 25px;
+    background-color:lightseagreen;
+    color: white;
+    text-align: end;
+    padding-top: 10px;
+    padding-right: 5px;
+
+}
+
+.skills_pic_lan {
+    
+    /* border: solid green; */
+    width: 30%;
+    /* height: 50px; */
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+
+.skills_uzbek {
+    /* border: solid green; */
+    height: 95px;
+    width: 30%;
+    /* margin: 3px; */
+    /* text-align: center; */
+    /* padding-top: 30px; */
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* justify-content: center; */
+    justify-content: center;
+    align-items: center
+    
+       
+ }
+ .circle {
+    border: solid grey;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    background-color: lightgreen;
+    
+    
+ }
+ .bigcircle {
+    display: flex;
+   justify-content: space-around;
+   margin: 35px;
+    
+ }
+
+
+
+/* .eng {
+    border: solid black;
+    height: 200px;
+    margin: 0px;
+
+} */
+
+.background_sag {
+    /* border: solid red; */
+    padding: 1px;
+    margin: 1em;
+    display: flex;
+    height: 120px;
+    
+    
+ }
+
+
+ .skills_eng {
+    /* border: solid green; */
+    height: 95px;
+    width: 30%;
+    /* margin: 3px; */
+    /* text-align: center; */
+    /* padding-top: 30px; */
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* justify-content: center; */
+    justify-content: center;
+    align-items: center;
+    padding-top: 0px;
+
+       
+ }
+ 
+
+ .circle_1 {
+    border: solid grey;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    
+    
+ }
+ .circle5 {
+    background-color: black;
+    border: solid grey;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    
+ }
+
+
+ .skills_language {
+    /* border: solid green; */
+    /* height: 175px; */
+    width: 30%;
+    /* margin: 3px; */
+    /* text-align: center; */
+    /* padding-top: 30px; */
+    display: flex;
+    justify-content: space-evenly;
+  align-items: end;
+  background-color: hotpink;
+  color: aliceblue;
+      
+ }
+
+ .circle2 {
+    border: solid grey;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    background-color: lightblue;
+    
+    
+ }
+
+ .circle3 {
+    border: solid grey;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    background-color: lightsalmon;
+    
+    
+ }
+ .circle5 {
+    background-color: black;
+    border: solid grey;
+    border-radius: 15px;
+    width: 20px;
+    height: 20px;
+    
+ }
+ .tajik {
+    display: flex;
+    justify-content: space-evenly;
+    border: solid black;
+    /* padding-left: 80px;     */
+    text-align: start;
+    align-items: start;
+ }
+
+
+ .skills_turk {
+    /* border: solid green; */
+    height: 95px;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    width: 530px;
+
+       
+ }
+ .description_tuft1 {
+    height: 110px;
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+    text-align: center;
+}
+.description_tuft1:hover {
+    background-color: gold;
+}
+
+.description_per{
+
+    height: 100px;
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    background-color:lightsteelblue;
+    color: white;
+      
+    
+}
+.description_per:hover {
+
+    background-color: aqua;
+}
+
+.description_selxoz{
+
+
+    height: 100px;
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    background-color:black;
+    color: white;
+}
+
+.description_selxoz:hover {
+    background-color: gold;
+} 
+
+.pic1 {
+
+    display: flex;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 50;
+    display: flex;
+    width: 1245px;
+    color: black;
+    background-color: aqua;
+}
