@@ -2,27 +2,22 @@
     border: solid black;
     height: 1850px;
     background-color: aqua;
-    
 }
 
 .box {
   
     height: 120px;
-    /* margin: 10px; */
     display: flex;
     justify-content: center;
    
 }
 #box1 {
-    /* border: solid green; */
     width: 50%;
     align-items: center;
-
 }
 
 
 #biogr{
-    /* border: solid blue; */
     width: 100%;
     height: auto;
     margin: 5px;
@@ -33,20 +28,15 @@
 }
     
 #title {
-    /* border: solid violet; */
-    /* width: 150px; */
-    /* margin-left: 15px; */
     font-size: 25px;
  }
 
  .background {
-    /* border: solid red; */
     padding: 1px;
     margin: 1em;
     display: flex;
     height: 120px;
-    /* width: 1243px; */
-    
+   
  }  
      
  .uber {
@@ -59,7 +49,7 @@
 
  }
  .skills {
-    /* border: solid green; */
+ 
     height: 52px;
     width: 30%;
     margin: 3px;
@@ -71,12 +61,11 @@
  }
 
 .description{
-    /* border: solid blue; */
+ 
     height: 100px;
     width: 250px;
     display: flex;
     justify-content: space-around;
-    /* margin-left: 350px; */ 
     background-color: lightpink;
       
     
@@ -86,7 +75,7 @@
 }
 
 .data {
-   /* border: solid white; */
+ 
     height: 30px;
     width: 25%;
     margin-top: 25px;
@@ -112,24 +101,16 @@
 
 
 .background2 {
- /* border: solid red; */
+
  display: flex;
  margin: 1em;
- /* margin-top: 0px; */
  height: 140px; 
 }
 
 
-/* .descuber {
-   
-   border: solid blue;
-    width: 936px; 
-    height: 200px;
-   margin-left: 305px;
-    
-} */
+
 .skills2 {
-    /* border: solid green; */
+ 
     margin-left: 7.8px;
     width: 530px;
     height:200px ;
@@ -137,7 +118,7 @@
 }
 
 .description2 {
-    /* border: solid blue; */
+  
     height: 130px;
     width: 80%;
 }
@@ -151,13 +132,11 @@
 
  }
  #datatuft {
-    /* border: solid green; */
     text-align: center;
     margin-top: 5px;
  }
 
  .description_tuft {
-    /* border: solid blue; */
     height: 110px;
     width: 250px;
     display: flex;
@@ -187,21 +166,19 @@
 
 }
 .pic {
-    /* border: solid darkorange; */
+   
     display: flex;
     margin: 15px;
     padding: 5px;
     border-radius: 50;
-    /* height: 80px; */
     display: flex;
     width: 1245px;
-    /* justify-content: ; */
     background-color: springgreen;
     color: black;
     
 }
 #xumologo {
-    /* border: solid black; */
+
     width: 130px;
     height: 110px;   
     border-radius: 45%; 
@@ -222,32 +199,28 @@
     margin-top: 40px;
 }
 .perdescription {
-    /* border: solid blue; */
     height: 90px;
-    /* width: 80%; */
-     
+ 
 }
 .background3 {
-    /* border: solid red; */
+
     display: flex;
     margin: 1em;
-    /* margin-top: 0px; */
     height: 100px;
-    /* width: 60%; */
+ 
       
    }
    .backgroundxumo {
-    /* border: solid red; */
+ 
     display: flex;
     margin: 1em;
-    /* margin-top: 0px; */
+ 
     height: 100px; 
     
    }
    .descriptionxumo {
-    /* border: solid blue; */
     height: 90px;
-    /* width: 80%; */
+  
 }
 #skillogo {
     height: 60px;
@@ -255,18 +228,15 @@
     
 }
 .skills {
-    /* border: solid green; */
+ 
     height: 75px;
     width: 30%;
-    /* margin: 3px; */
     text-align: center;
-    /* padding-top: 30px; */
     display: flex;
     justify-content: space-evenly;
       
  }
  .prog_skil {
-    /* border:  solid black; */
     width: 300px;
     height: 25px;
     background-color: lightblue;
@@ -280,7 +250,6 @@
 
 .skills_pic {
     
-/* border: solid green; */
 width: 30%;
 text-align: center;
 padding-bottom: 10px;
@@ -295,13 +264,12 @@ padding-bottom: 10px;
 .mainbox {
     display: flex;
     width: 340px;
-    /* border: solid red; */
     background-color: black;
     margin-left: 70px;
     margin-top: 30px;
 }
 .prog_skil_css {
-    /* border:  solid black; */
+ 
     width: 295px;
     height: 25px;
     background-color: lightcoral;
@@ -312,7 +280,7 @@ padding-bottom: 10px;
 
 }
 .prog_skil_java {
-    /* border:  solid black; */
+
     width: 288px;
     height: 25px;
     background-color:lightseagreen;
@@ -325,24 +293,16 @@ padding-bottom: 10px;
 
 .skills_pic_lan {
     
-    /* border: solid green; */
     width: 30%;
-    /* height: 50px; */
     text-align: center;
     padding-bottom: 10px;
     
 }
 
 .skills_uzbek {
-    /* border: solid green; */
     height: 95px;
     width: 30%;
-    /* margin: 3px; */
-    /* text-align: center; */
-    /* padding-top: 30px; */
     display: flex;
-    /* justify-content: space-evenly; */
-    /* justify-content: center; */
     justify-content: center;
     align-items: center
     
@@ -353,7 +313,7 @@ padding-bottom: 10px;
     border-radius: 15px;
     width: 20px;
     height: 20px;
-    background-color: lightgreen;
+    background-color: purple;
     
     
  }
@@ -365,16 +325,8 @@ padding-bottom: 10px;
  }
 
 
-
-/* .eng {
-    border: solid black;
-    height: 200px;
-    margin: 0px;
-
-} */
-
 .background_sag {
-    /* border: solid red; */
+ 
     padding: 1px;
     margin: 1em;
     display: flex;
@@ -385,15 +337,10 @@ padding-bottom: 10px;
 
 
  .skills_eng {
-    /* border: solid green; */
+
     height: 95px;
     width: 30%;
-    /* margin: 3px; */
-    /* text-align: center; */
-    /* padding-top: 30px; */
     display: flex;
-    /* justify-content: space-evenly; */
-    /* justify-content: center; */
     justify-content: center;
     align-items: center;
     padding-top: 0px;
@@ -422,17 +369,13 @@ padding-bottom: 10px;
 
 
  .skills_language {
-    /* border: solid green; */
-    /* height: 175px; */
+ 
     width: 30%;
-    /* margin: 3px; */
-    /* text-align: center; */
-    /* padding-top: 30px; */
     display: flex;
     justify-content: space-evenly;
-  align-items: end;
-  background-color: hotpink;
-  color: aliceblue;
+    align-items: end;
+    background-color: hotpink;
+    color: aliceblue;
       
  }
 
@@ -441,7 +384,7 @@ padding-bottom: 10px;
     border-radius: 15px;
     width: 20px;
     height: 20px;
-    background-color: lightblue;
+    background-color: blue;
     
     
  }
@@ -467,18 +410,15 @@ padding-bottom: 10px;
     display: flex;
     justify-content: space-evenly;
     border: solid black;
-    /* padding-left: 80px;     */
     text-align: start;
     align-items: start;
  }
 
 
  .skills_turk {
-    /* border: solid green; */
+
     height: 95px;
-
     display: flex;
-
     justify-content: center;
     align-items: center;
     width: 530px;
